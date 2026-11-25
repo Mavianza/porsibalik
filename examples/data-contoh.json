@@ -1,0 +1,1 @@
+{"schemaVersion":1,"businessName":"Kantin Contoh","menus":[{"id":"nasi-campur","name":"Nasi campur","price":15000,"records":[{"date":"2026-11-24","prepared":30,"sold":27,"leftover":3,"lostDemand":0},{"date":"2026-11-25","prepared":28,"sold":28,"leftover":0,"lostDemand":2}]}],"updatedAt":"2026-11-25T00:00:00.000Z"}
